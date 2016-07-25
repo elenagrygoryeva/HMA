@@ -1,0 +1,5 @@
+--Windows--
+1. Run Command Prompt
+2. Change directory to C:\Program Files (x86)\HMA! Pro VPN\bin
+3. Run the command:
+C:\Program Files (x86)\HMA! Pro VPN\bin>openvpn <PATH_TO_OVPN_CONFIG_FILE>
